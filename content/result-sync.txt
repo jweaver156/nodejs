@@ -1,0 +1,1 @@
+Created text file. Here is the result : Hello from the first txt file!, Yo, what's up from the second txt file! Combining the two : I am number ONE!, And I am number TWO! Combining the two : I am number ONE!, And I am number TWO! Combining the two : I am number ONE!, And I am number TWO!
